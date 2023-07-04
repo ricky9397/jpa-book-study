@@ -1,7 +1,6 @@
-package jpabook.model.entity.item;
+package com.first.ch07model4.model.entity.item;
 
-
-import jpabook.model.entity.Category;
+import com.first.ch07model4.model.entity.Category;
 
 import javax.persistence.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package jpabook.model.entity.item;
+package com.first.ch07model4.model.entity.item;
 
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
