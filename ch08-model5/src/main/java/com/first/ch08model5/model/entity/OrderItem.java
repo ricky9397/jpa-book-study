@@ -1,6 +1,7 @@
 package com.first.ch08model5.model.entity;
 
-import jpabook.model.entity.item.Item;
+
+import com.first.ch08model5.model.entity.item.Item;
 
 import javax.persistence.*;
 

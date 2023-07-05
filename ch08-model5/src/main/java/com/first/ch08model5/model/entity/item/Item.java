@@ -1,7 +1,8 @@
 package com.first.ch08model5.model.entity.item;
 
 
-import jpabook.model.entity.Category;
+
+import com.first.ch08model5.model.entity.Category;
 
 import javax.persistence.*;
 import java.util.ArrayList;
